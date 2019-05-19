@@ -1,1 +1,22 @@
-<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67 101"><defs><style>.cls-1{fill:#acabab;}.cls-2,.cls-3,.cls-4{fill:none;stroke-miterlimit:10;}.cls-2{stroke:#242845;}.cls-3{stroke:#00b0ff;}.cls-4{stroke:#acabab;}</style></defs><title>Монтажная область 1</title><path class="cls-1" d="M58,79.47H56.08V77.74H58Zm-3.83,0H52.25V77.74h1.91Zm-3.83,0H48.42V77.74h1.92Z"/><polygon class="cls-2" points="65.92 100.45 65.92 0.45 23.98 0.45 1.4 23.03 1.4 100.45 7.85 97.22 14.3 100.45 20.76 97.22 27.21 100.45 33.66 97.22 40.11 100.45 46.56 97.22 53.01 100.45 59.47 97.22 65.92 100.45"/><polyline class="cls-2" points="1.4 23.03 23.98 23.03 23.98 0.45"/><line class="cls-3" x1="23.98" y1="78.61" x2="23.98" y2="33.45"/><path class="cls-3" d="M24,35.06h9.6S49.84,33.89,49.84,48s-16.25,12.9-16.25,12.9H17.53"/><line class="cls-3" x1="17.53" y1="68.93" x2="35.27" y2="68.93"/><path class="cls-4" d="M54.36,10.72s0-3.47-5.21-3.47-4.63,4-4.63,4,0,4,4.63,4c5.21,0,5.79,3.47,5.79,4,0,1.16.57,4.63-5.79,4.63C44,24,44,21.71,44,21.13"/><line class="cls-4" x1="49.84" y1="5.13" x2="49.84" y2="25.95"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 67 101" style="enable-background:new 0 0 67 101;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#ACABAB;}
+	.st1{fill:none;stroke:#242845;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#00B0FF;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#ACABAB;stroke-miterlimit:10;}
+</style>
+<title>Монтажная область 1</title>
+<path class="st0" d="M58,79.5h-1.9v-1.7H58V79.5z M54.2,79.5h-1.9v-1.7h1.9L54.2,79.5z M50.3,79.5h-1.9v-1.7h1.9V79.5z"/>
+<polygon class="st1" points="65.9,100.4 65.9,0.4 24,0.4 1.4,23 1.4,100.4 7.8,97.2 14.3,100.4 20.8,97.2 27.2,100.4 33.7,97.2 
+	40.1,100.4 46.6,97.2 53,100.4 59.5,97.2 "/>
+<polyline class="st1" points="1.4,23 24,23 24,0.4 "/>
+<line class="st2" x1="35" y1="78.6" x2="35" y2="40"/>
+<path class="st3" d="M54.4,10.7c0,0,0-3.5-5.2-3.5s-4.6,4-4.6,4s0,4,4.6,4c5.2,0,5.8,3.5,5.8,4c0,1.2,0.6,4.6-5.8,4.6
+	C44,24,44,21.7,44,21.1"/>
+<line class="st3" x1="49.8" y1="5.1" x2="49.8" y2="26"/>
+<line class="st2" x1="17.5" y1="34.5" x2="52.1" y2="34.5"/>
+<line class="st2" x1="17.5" y1="40.5" x2="52.1" y2="40.5"/>
+</svg>
