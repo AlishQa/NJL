@@ -183,8 +183,8 @@ $("#form1__send").click(function() {
                //    $( ".close2" ).trigger( "click" );
                //}, 750);
                //yaCounter45880929.reachGoal('dwnprice');
-               gtag('event', 'lead', { 'event_category': 'form', 'event_label' : 'Предложение'});
-			   yaCounter47071917.reachGoal('sendform');
+    //           gtag('event', 'lead', { 'event_category': 'form', 'event_label' : 'Предложение'});
+	//		   yaCounter47071917.reachGoal('sendform');
             }
         })
     }
