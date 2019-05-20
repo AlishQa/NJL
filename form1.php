@@ -9,7 +9,19 @@ if (isset($_POST['form1__send'])) {
 	$headers = "Заголовок";
 	$txt = "Имя: ".$n."\nНомер: ".$p."\nВ какое время позвонить: ".$t;
 	
+	$response = array();
+	$response['status'] = 'success';
+
 	mail($mailTo, $headers, $txt);
+	
+	echo json_encode($response);
 }
+
+
+
+
+ 
+ 
+
 
 ?>
